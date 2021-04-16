@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sonups
 - 👀 I’m interested in software testing and test automation. Please have a look into my test automation repositories making use of multiple technologies such as Docker, Appium, Selenium, Cucumber, Jenkins, Java, Javascript, Ruby, Python 
-- 🌱 I’m currently learning working as a SDET in UST Global
+- 🌱 I’m currently working as a SDET in UST Global
 - 📫 You can reach me at sonu.sadasivan@gmail.com
 
 <!---
